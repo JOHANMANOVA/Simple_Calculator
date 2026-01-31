@@ -1,7 +1,7 @@
-Simple Calculator
+Simple Calculator (Python)
 
-A simple calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
-This project is designed for beginners to understand core programming concepts and logical flow.
+A simple command-line calculator built using Python that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This project is ideal for beginners who want to practice Python fundamentals and logical thinking.
 
 🚀 Features
 
@@ -13,22 +13,20 @@ Multiplication
 
 Division
 
-Simple and easy-to-use
+Handles division by zero
 
-Beginner-friendly
+Easy-to-use Command Line Interface (CLI)
 
 🛠️ Technologies Used
 
-Programming Language: Python / C / Java / JavaScript
+Language: Python 3
 
-Platform: Command Line Interface (CLI)
-
-(Update this section if required)
+Interface: Command Line (CLI)
 
 📂 Project Structure
 simple-calculator/
 │
-├── calculator.(py / c / java / js)
+├── calculator.py
 ├── README.md
 
 ▶️ How to Run the Project
@@ -39,54 +37,44 @@ Step 2: Navigate to the Project Folder
 cd simple-calculator
 
 Step 3: Run the Program
-
-For Python
-
 python calculator.py
 
 
-For C
-
-gcc calculator.c -o calculator
-./calculator
-
-
-For Java
-
-javac Calculator.java
-java Calculator
-
-
-For JavaScript (Node.js)
-
-node calculator.js
+Make sure Python 3 is installed on your system.
 
 📸 Sample Output
-Enter first number: 20
-Enter second number: 4
-Select operation (+, -, *, /): /
-Result: 5
+🧮 Simple Calculator
+Choose an operation:
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+
+Enter your choice (1/2/3/4): 3
+Enter first number: 6
+Enter second number: 7
+Result: 6 * 7 = 42
 
 🎯 Purpose of This Project
 
-To practice basic arithmetic operations
+Learn basic Python syntax
 
-To understand conditional statements and user input
+Practice conditional statements
 
-To improve logical thinking
+Understand user input handling
 
-Ideal for beginners and students
+Build confidence in Python programming
 
 🤝 Contributing
 
-Contributions are welcome.
-Fork the repository, make changes, and submit a pull request.
+Contributions are welcome!
+Fork the repository and submit a pull request for improvements.
 
 📄 License
 
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License.
 
 👤 Author
 
 Johan Manova
-GitHub: https://github.com/your-username
+GitHub: https://github.com/JOHANMANOVA
